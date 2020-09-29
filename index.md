@@ -8,7 +8,7 @@
 <p align="center">
   <a href="" style="font-size: 21px; text-decoration: none">[Arxiv (coming soon)]</a>
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  
-  <a href="https://github.com/sjenni/temporal-ssl" style="font-size: 21px; text-decoration: none">[GitHub]</a> 
+  <a href="https://github.com/sjenni/multiview-sync-ssl" style="font-size: 21px; text-decoration: none">[GitHub]</a> 
 </p>
 
 
