@@ -1,0 +1,5 @@
+theme: minima
+title: Self-Supervised Multi-View Synchronization Learning for 3D Pose Estimation
+author: Simon Jenni, Paolo Favaro
+email: simon.jenni@inf.unibe.ch
+description: This is the project page for our ACCV2020 oral paper titled "Self-Supervised Multi-View Synchronization Learning for 3D Pose Estimation"
