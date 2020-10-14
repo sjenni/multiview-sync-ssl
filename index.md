@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <a href="" style="font-size: 21px; text-decoration: none">[Arxiv (coming soon)]</a>
+  <a href="https://arxiv.org/pdf/2010.06218.pdf" style="font-size: 21px; text-decoration: none">[Arxiv]</a>
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  
   <a href="https://github.com/sjenni/multiview-sync-ssl" style="font-size: 21px; text-decoration: none">[GitHub]</a> 
 </p>
